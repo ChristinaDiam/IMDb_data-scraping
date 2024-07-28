@@ -1,3 +1,5 @@
+# IMDb Data Scraping 
+
 # Load the libraries for scraping
 library(rvest)
 library(xml2)
